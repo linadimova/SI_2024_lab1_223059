@@ -13,4 +13,6 @@ public class SILab1_2 {
         
         System.out.println(SILab1_2.makeBigStringFrom(list));
     }
+
+
 }
