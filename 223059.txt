@@ -1,0 +1,12 @@
+1. Go instalirav Git, a potoa kreirav i svoj profil na Github (linadimova).
+2.Koristejki go dadeniot link go promeniv imeto na mojata glavna granka 
+vo master.
+3.Vo delot "Your repositories"- new kreirav nov repozitorium so dadenoto ime.
+4.Preku Git koristejki ja komandata $git clone i soodvetniot link go klonirav
+dadeniot repozitorium vo svoj lokalen repozitorium, vlegov preku komandata 
+$cd i go inicijalizirav soodvetno so komandata $git init.
+5.Koristejki ja komandata $git clone vo prethodniot cekor avtomatski go 
+povrzuvame nasiot lokalen repozitorium so glavniot repozitorium i toa moze 
+da go proverime so komandata $git remote -v.
+
+
