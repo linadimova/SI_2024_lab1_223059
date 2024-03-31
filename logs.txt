@@ -1,0 +1,79 @@
+$ git log
+commit ed23a81b1d6008fabf165309977f81fe23aa8095 (HEAD -> master, origin/master)
+Author: Lina <linadimova2003@gmail.com>
+Date:   Sun Mar 31 21:37:05 2024 +0200
+
+    Final commit
+
+commit c14d30b935daaa4d0d8d77158825fb7c97cda3be (origin/bug2, bug2)
+Author: Lina <linadimova2003@gmail.com>
+Date:   Sun Mar 31 21:08:07 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit a88638690bc288e181dd5050f6477fc0fd94550d
+Author: Lina <linadimova2003@gmail.com>
+Date:   Sun Mar 31 20:59:03 2024 +0200
+
+    Final commit
+
+commit 9caf5f02259ee8e34d97c19d04ae3957d35668bd
+Author: Lina <linadimova2003@gmail.com>
+Date:   Sun Mar 31 20:50:43 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 696de1c5713c3812667118309179486fa75d1c34
+Author: Lina <linadimova2003@gmail.com>
+Date:   Sun Mar 31 20:19:12 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 1de13697784c10fff44edebaba4006ae2f1be438
+Merge: 34892c7 14c3913
+Author: Lina <linadimova2003@gmail.com>
+Date:   Sun Mar 31 21:16:21 2024 +0200
+
+    Merge branch 'bug1'
+
+commit 34892c78564fb182ca140b5f39849234d9a506e9
+Author: Lina <linadimova2003@gmail.com>
+Date:   Sun Mar 31 21:15:11 2024 +0200
+
+    Final commit
+
+commit c9b410efce3bd64816545b5876d6ccb2d96c2278
+Author: Lina <linadimova2003@gmail.com>
+Date:   Sun Mar 31 21:11:36 2024 +0200
+
+    Final commit
+
+commit 14c3913b089ad655022a1e411769f1fed1b93a40 (origin/bug1, bug1)
+Author: Lina <linadimova2003@gmail.com>
+Date:   Sun Mar 31 20:36:58 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 35a231d6123ba358a1138f115b0a2927822115ee
+Author: Lina <linadimova2003@gmail.com>
+Date:   Sun Mar 31 20:09:50 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit a2db25539174b2e67512a973d6af50be40fd5885
+Author: Lina <linadimova2003@gmail.com>
+Date:   Sun Mar 31 19:42:32 2024 +0200
+
+    Add starter code
+
+commit afb2070625e8c184445165f815965d61abf2ef19
+Author: Lina <linadimova2003@gmail.com>
+Date:   Sun Mar 31 19:10:26 2024 +0200
+
+    Initial commit
+
+commit 0a7a2cf68591486576afb1d70b1d1d48528b1825
+Author: Lina <linadimova2003@gmail.com>
+Date:   Sun Mar 31 19:05:45 2024 +0200
+
+    Final commit
