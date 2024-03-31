@@ -45,3 +45,7 @@ soodvetniot komit so naredbata $git commit -m "Call method filterOddLengthString
 pravime $git pull i na kraj $git push origin bug1 za da gi prikacime soodvetnite promeni.
 
 16.$git checkout bug2.
+
+17.So nano vlegov vo baraniot fajl ja dodadov promenata vo kodot napraviv $git add a potoa 
+i soodvetniot komit so $git commit.
+
