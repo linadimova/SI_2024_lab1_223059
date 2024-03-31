@@ -8,5 +8,7 @@ $cd i go inicijalizirav soodvetno so komandata $git init.
 5.Koristejki ja komandata $git clone vo prethodniot cekor avtomatski go 
 povrzuvame nasiot lokalen repozitorium so glavniot repozitorium i toa moze 
 da go proverime so komandata $git remote -v.
-
+6.README.md go najprvo kreirav koristejki ja komandata $nano a potoa napraviv 
+$git add README.md dodadov komit preku naredbata $git commit -m so soodvetna poraka napraviv
+$git pull a potoa so naredbata $git push go dodadov na repozitoriumot na Github.
 
