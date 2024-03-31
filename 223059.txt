@@ -1,0 +1,47 @@
+1. Go instalirav Git, a potoa kreirav i svoj profil na Github (linadimova).
+
+2.Koristejki go dadeniot link go promeniv imeto na mojata glavna granka
+vo master.
+
+3.Vo delot "Your repositories"- new kreirav nov repozitorium so dadenoto ime.
+
+4.Preku Git koristejki ja komandata $git clone i soodvetniot link go klonirav
+dadeniot repozitorium vo svoj lokalen repozitorium, vlegov preku komandata
+$cd i go inicijalizirav soodvetno so komandata $git init.
+
+5.Koristejki ja komandata $git clone vo prethodniot cekor avtomatski go
+povrzuvame nasiot lokalen repozitorium so glavniot repozitorium i toa moze
+da go proverime so komandata $git remote -v.
+
+6.README.md go najprvo kreirav koristejki ja komandata $nano a potoa napraviv
+$git add README.md dodadov komit preku naredbata $git commit -m so soodvetna poraka napraviv
+$git pull a potoa so naredbata $git push go dodadov na repozitoriumot na Github.
+
+7.Najprvin napraviv download na soodvetnite files, a potoa so komandata
+$ mv Downloads/SILab1Main.java SI_2024_lab1_223059 za sekoj od fajlovite i gi prefrliv od
+download kade shto prvicno bea simnati vo soodvetniot repozitorium napraviv $git add .
+a potoa so $git commit -m ja dodadov soodvetnata poraka.
+
+8.Gi sinhronizirav taka shto najprvin napraviv $git pull a potoa i $git push so shto
+samite fajlovi veke bea prikaceni na glavnoto repo.
+
+9.Gi otvoriv grankite bug1 i bug2 so pomos na komandata $git branch i soodvetnoto ime za
+novata granka.
+
+10.So komandata $git checkout bug1 se prefrrlame na grankata bug1.
+
+11.Go otvarame fajlot so pomos na $nano pravime soodvetni promeni.Pravime $git add na istiot
+a potoa i so naredbata $git commmit -m ja dodavame porakata
+"Fix wrong condition in filterOddLengthStrings" odime $git pull pa $git push origin bug1.
+
+12.So naredbata $git checkout bug2 se prefrlame na drugata granka.
+
+13.Go pravime istoto kako i vo 11to samo so komitot "Fix wrong condition in makeBigStringFrom"
+
+14.Pravime $git checkout bug1.
+
+15.So nano ja pravime promenata isto kako i prethofno pravime $git add go dodavame
+soodvetniot komit so naredbata $git commit -m "Call method filterOddLengthStrings in main class."
+pravime $git pull i na kraj $git push origin bug1 za da gi prikacime soodvetnite promeni.
+
+16.$git checkout bug2.
