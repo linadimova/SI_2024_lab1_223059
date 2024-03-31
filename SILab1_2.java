@@ -10,5 +10,7 @@ public class SILab1_2 {
             }
         }
         return sb.toString();
+        
+        System.out.println(SILab1_2.makeBigStringFrom(list));
     }
 }
