@@ -45,3 +45,33 @@ soodvetniot komit so naredbata $git commit -m "Call method filterOddLengthString
 pravime $git pull i na kraj $git push origin bug1 za da gi prikacime soodvetnite promeni.
 
 16.$git checkout bug2.
+
+
+17.Vlegov so nano ovo klasata i gi napraviv promenite napraviv add i komit so soodvetnata poraka.
+
+18.Ja izvrsiv sinhronizacijata povtorno so pomosh na $push i $pull metodite.
+
+19.$git checkout master.
+
+20.Napraviv spojuvanje so pomos na komandata $git merge bug1.
+
+21.Povtorno gi upotrebiv $push i $pull.
+
+22.$git checkout bug2.
+
+23.$git rebase master no javi konflikt napraviv promena go resiv konfliktot i potoa ja napraviv
+ $git rebase --continiue.
+
+24.$git checkout master.
+
+25.$git merge bug2.
+
+26.$push/$pull soodvetnata sinhronizacija.
+
+27.Ja iskoristiv komandata $git push --all --force.
+
+28.Ja dodadov datotekata i soodvetno gi zapisav informaciite koi gi dobiv so komandata $git log.
+
+29.Napraviv sinhronizacija.
+
+ 
